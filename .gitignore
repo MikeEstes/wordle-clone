@@ -1,0 +1,68 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+web-report/
+
+#built application files
+*.apk
+*.ap_
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+
+# Android Studio
+*.iml
+.idea
+#.idea/workspace.xml - remove # and delete .idea if it better suit your needs.
+.gradle
+build/
+.navigation
+captures/
+output.json 
+
+# macOS
+.DS_Store
+node_modules
+
+### Xcode
+build
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcworkspace/contents.xcworkspacedata
+
+
+### Objective-C
+# OS X
+.DS_Store
+
+# Xcode
+build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata
+*.xccheckout
+profile
+*.moved-aside
+DerivedData
+*.hmap
+*.ipa
+
+# CocoaPods
+Pods
